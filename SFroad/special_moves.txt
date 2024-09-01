@@ -1,0 +1,21 @@
+f = forward
+b = backward
+u = up
+d = down
+p = punch
+
+Ken:
+fireball --> d f p
+dragon punch  --> f d f p
+hurricane kicks --> b f p
+axe kick --> u u p or d d p
+
+Guile:
+fireball --> b f p
+somersault Kick --> d u p
+
+Iori:
+ground fireball --> d f p
+crescent of tainted flame --> f d f p
+
+all characters can perform dash attack: --> f f p

@@ -1,0 +1,449 @@
+# depslib dependency file v1.0
+1721478219 source:c:\c_code\sdl\projects\sfroad\src\check.cpp
+	"value.h"
+	"extern.h"
+
+1721385724 c:\c_code\sdl\projects\sfroad\src\value.h
+	"sound.h"
+
+1721385769 c:\c_code\sdl\projects\sfroad\src\sound.h
+
+1721464454 c:\c_code\sdl\projects\sfroad\src\extern.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
+1720761212 source:c:\c_code\sdl\projects\sfroad\src\enemy.cpp
+	"value.h"
+	"extern.h"
+
+1720758742 source:c:\c_code\sdl\projects\sfroad\src\enemy2.cpp
+	"value.h"
+	"extern.h"
+
+1721479409 source:c:\c_code\sdl\projects\sfroad\src\etc01.cpp
+	"value.h"
+	"extern.h"
+	"midi.h"
+	"modex.h"
+	"sfroad_sdl.h"
+
+1720766569 c:\c_code\sdl\projects\sfroad\src\midi.h
+
+1720938170 c:\c_code\sdl\projects\sfroad\src\modex.h
+
+1721209795 source:c:\c_code\sdl\projects\sfroad\src\etc02.cpp
+	"value.h"
+	"extern.h"
+
+1721197458 source:c:\c_code\sdl\projects\sfroad\src\lyhwat.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"extern.h"
+	"sfroad_sdl.h"
+
+1721472524 source:c:\c_code\sdl\projects\sfroad\src\player.cpp
+	"value.h"
+	"extern.h"
+
+1721550893 source:c:\c_code\sdl\projects\sfroad\src\sfroadp.cpp
+	<malloc.h>
+	<stdlib.h>
+	"sfroad_sdl.h"
+	"value.h"
+	"extern.h"
+	"modex.h"
+	"midi.h"
+	"sound.h"
+	"etc01.cpp"
+	"etc02.cpp"
+	"skill.cpp"
+	"player.cpp"
+	"enemy.cpp"
+	"enemy2.cpp"
+	"check.cpp"
+
+1720691069 c:\c_code\sdl\projects\sfroad\src\lyhwat.cpp
+	<stdio.h>
+	<string.h>
+	<dos.h>
+	<stdlib.h>
+	<iostream>
+	<conio.h>
+	<math.h>
+	<time.h>
+	<mem.h>
+	<io.h>
+	"extern.h"
+
+1720696073 c:\c_code\sdl\projects\sfroad\src\value.cpp
+	"sound.h"
+
+1721479409 c:\c_code\sdl\projects\sfroad\src\etc01.cpp
+	"value.h"
+	"extern.h"
+	"midi.h"
+	"modex.h"
+	"sfroad_sdl.h"
+
+1721209795 c:\c_code\sdl\projects\sfroad\src\etc02.cpp
+	"value.h"
+	"extern.h"
+
+1721469903 c:\c_code\sdl\projects\sfroad\src\skill.cpp
+	"value.h"
+	"extern.h"
+
+1721472524 c:\c_code\sdl\projects\sfroad\src\player.cpp
+	"value.h"
+	"extern.h"
+
+1720761212 c:\c_code\sdl\projects\sfroad\src\enemy.cpp
+	"value.h"
+	"extern.h"
+
+1720758742 c:\c_code\sdl\projects\sfroad\src\enemy2.cpp
+	"value.h"
+	"extern.h"
+
+1721478219 c:\c_code\sdl\projects\sfroad\src\check.cpp
+	"value.h"
+	"extern.h"
+
+1721469903 source:c:\c_code\sdl\projects\sfroad\src\skill.cpp
+	"value.h"
+	"extern.h"
+
+1720758572 source:c:\c_code\sdl\projects\sfroad\src\value.cpp
+	"sound.h"
+
+1720937314 source:c:\c_code\sdl\projects\sfroad\src\modex.c
+	"extern.h"
+
+1721385866 source:c:\c_code\sdl\projects\sfroad\src\sound.cpp
+	"sound.h"
+	"midi.h"
+	"sfroad_sdl.h"
+
+1720765345 c:\c_code\sdl\projects\sfroad\src\modexx.h
+	"sound.h"
+	"midi.h"
+
+1720767462 source:c:\c_code\sdl\projects\sfroad\src\mooooodx.c
+
+1721201930 source:c:\c_code\sdl\projects\sfroad\src\modex.cpp
+	"extern.h"
+	"sfroad_sdl.h"
+
+1721550942 source:c:\c_code\sdl\projects\sfroad\src\sfroad_sdl.c
+	<SDL/SDL.h>
+	<SDL_mixer.h>
+	"extern.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114587 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326114594 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\program files\codeblocks\sdl-1.2.15\include\sdl\begin_code.h
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\close_code.h
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325792940 c:\program files\codeblocks\sdl-1.2.15\include\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl_types.h
+	"SDL_stdinc.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114587 c:\program files\codeblocks\sdl-1.2.15\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl_platform.h
+
+1326114594 c:\program files\codeblocks\sdl-1.2.15\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\program files\codeblocks\sdl-1.2.15\include\begin_code.h
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\close_code.h
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742239 c:\program files\codeblocks\sdl-1.2.15\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1721550942 c:\c_code\sdl\projects\sfroad\src\sfroad_sdl.h
+	<SDL/SDL.h>
+	<SDL_mixer.h>
+
+1721385866 source:c:\c_code\sdl\projects\sfroad\src\sound.c
+	"sound.h"
+	"midi.h"
+	"sfroad_sdl.h"
+
